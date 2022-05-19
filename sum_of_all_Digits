@@ -1,9 +1,4 @@
 class Main {
-  static int Addition(int a, int b)
-  {
-    return a + b;
-  }
-
   static void sumofallDigits(int a)
   {
     String str = Integer.toString(a);
